@@ -70,4 +70,7 @@ The tool extracts the job listing, retrieves relevant portfolio samples from Chr
 
 ## 📜 **Screenshot**
 
+<p align="center">
+  <img src="screenshot.png" width="1000">
+</p>
 
